@@ -1,0 +1,27 @@
+{
+  "name": "chapter_2",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Ritpra93/backend-dev#readme",
+  "bugs": {
+    "url": "https://github.com/Ritpra93/backend-dev/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ritpra93/backend-dev.git"
+  },
+  "license": "ISC",
+  "author": "ritesh",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
